@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur%20%7C%20Spigot-brightgreen?style=for-the-badge)](https://papermc.io/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20%2B-00AAFF?style=for-the-badge)](https://papermc.io/downloads)
 [![Release](https://img.shields.io/github/v/release/DiegoteUnCut/CoreChat?style=for-the-badge&logo=github&color=blue)](https://github.com/DiegoteUnCut/CoreChat/releases)
-[![Discord](https://img.shields.io/badge/Discord-CoreLab-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/5j7qMvHpzZ])
+[![Discord](https://img.shields.io/badge/Discord-CoreLab-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5j7qMvHpzZ)
 
 CoreChat es un plugin modular y optimizado de gestión de chat para servidores de Minecraft basados en Paper, Purpur y Spigot. Cuenta con soporte nativo para colores HEX/RGB, etiquetas interactivas y filtros de moderación en tiempo real sin impacto en el tick rate del servidor.
 
